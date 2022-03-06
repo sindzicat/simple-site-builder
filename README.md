@@ -2,7 +2,7 @@
 
 Simple site builder (`serve.js`), that uses [browser-sync](https://browsersync.io/), [esbuild](https://esbuild.github.io/) and [chokidar](https://github.com/paulmillr/chokidar).
 
-Simple and modern alternative to gulp.js.
+Simple and modern alternative to [gulp.js](http://gulpjs.org/).
 
 [Lodash](https://lodash.com/) is used only as for example.
 
