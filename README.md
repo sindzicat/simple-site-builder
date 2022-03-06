@@ -14,3 +14,8 @@ pnpm i
 pnpm serve
 ```
 You can use `node serve` instead of `pnpm serve`.
+
+
+## License
+
+MIT.
